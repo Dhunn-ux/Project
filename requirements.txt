@@ -1,0 +1,5 @@
+
+# This file is aued by pip-compile
+# To update, run:togenerat
+
+pyspark==3.2.0
